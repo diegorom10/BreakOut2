@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\1 Semestre\Programación\Projects\BreakOut2\BreakOut2\bin\Debug\BreakOut2.exe
+C:\Users\HP\Desktop\1 Semestre\Programación\Projects\BreakOut2\BreakOut2\bin\Debug\BreakOut2.pdb
+C:\Users\HP\Desktop\1 Semestre\Programación\Projects\BreakOut2\BreakOut2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\1 Semestre\Programación\Projects\BreakOut2\BreakOut2\obj\Debug\BreakOut2.Form1.resources
+C:\Users\HP\Desktop\1 Semestre\Programación\Projects\BreakOut2\BreakOut2\obj\Debug\BreakOut2.Properties.Resources.resources
+C:\Users\HP\Desktop\1 Semestre\Programación\Projects\BreakOut2\BreakOut2\obj\Debug\BreakOut2.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\1 Semestre\Programación\Projects\BreakOut2\BreakOut2\obj\Debug\BreakOut2.exe
+C:\Users\HP\Desktop\1 Semestre\Programación\Projects\BreakOut2\BreakOut2\obj\Debug\BreakOut2.pdb
+C:\Users\HP\Desktop\1 Semestre\Programación\Projects\BreakOut2\BreakOut2\obj\Debug\BreakOut2.Form2.resources
+C:\Users\HP\Desktop\1 Semestre\Programación\Projects\BreakOut2\BreakOut2\obj\Debug\BreakOut2.Form3.resources
